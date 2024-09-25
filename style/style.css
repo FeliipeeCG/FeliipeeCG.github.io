@@ -61,7 +61,7 @@ select {
         outline: 0;
         background: #018a3a;
         color: #f2fcf7;
-        border: 2px solid goldenrod;
+        border: 3px outset gold;
         padding: 4px;
         border-radius: 9px;
       }
