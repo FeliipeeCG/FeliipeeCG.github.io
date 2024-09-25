@@ -40,3 +40,9 @@ div {
   display: flex;
   text-align: center;
 }
+input {
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     margin: 0 auto;
+   }
