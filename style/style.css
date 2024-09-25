@@ -65,11 +65,4 @@ select {
         padding: 4px;
         border-radius: 9px;
       }
-img{
-	width: 400px;
-	height: 200px;
-	object-fit: none;
-	background-color: black;
-	border: 3px solid gold;
-  border-radius: 9px;
-}
+
